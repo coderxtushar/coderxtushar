@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F776730266976284693%2F&psig=AOvVaw3orFuZaibR0E8qwNyQmFMu&ust=1685114756202000&source=images&cd=vfe&ved=0CBIQjhxqFwoTCLDotOjjkP8CFQAAAAAdAAAAABAJ)](https://coderxtushar.io)
+[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2F776730266976284693%2F&psig=AOvVaw3orFuZaibR0E8qwNyQmFMu&ust=1685114756202000&source=images&cd=vfe&ved=0CBIQjhxqFwoTCLDotOjjkP8CFQAAAAAdAAAAABAJ](https://i.pinimg.com/originals/b9/ab/f0/b9abf0a0feb3219f56a51448d8ffae2c.gif))](https://coderxtushar.io)
 
 <h1 align="center">Hi 👋, I'm Tushar Gautam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
